@@ -1,12 +1,4 @@
-ROAM Simplistic Implementation
-By Bryan Turner
-brturn@bellsouth.net
-January, 2000
-
-
-Project file for MS Visual C++ 6.0.
-Requires GLUT DLL (www.opengl.org)
-Adjust program constants in Landscape.h and Utility.cpp.
+Program constants in Landscape.h and Utility.cpp.
 
 MAPS:
   Default map is read from HeghtXXX.raw where XXX is the MAP_SIZE
